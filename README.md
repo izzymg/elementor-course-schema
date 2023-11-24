@@ -1,5 +1,7 @@
-# Hubspot Form Elementor
+# Elementor Course Schema
+## Wordpress Plugin
 
-Wordpress Addon.
 
-Adds a widget to Elementor which loads a deferred embedded Hubspot form.
+Elementor Widget: Adds course schema structured data for a Woocommerce product.
+
+Developed by Izzy MG for The Career Academy.
