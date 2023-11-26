@@ -113,7 +113,7 @@ class Elementor_Course_Schema_Widget extends \Elementor\Widget_Base {
 		{
 			"@context": "https://schema.org",
 			"@type": "Course",
-			"name": "<?php echo $settings['name'] ?>",
+			"name": "<?php echo $settings['title'] ?>",
 			"description": "<?php echo $settings['excerpt'] ?>",
 			"provider": {
 				"@type": "Organization",
