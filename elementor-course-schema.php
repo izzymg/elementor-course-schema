@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Elementor Course Schema
  * Description: Elementor widget: Adds course schema structured data JSON 
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Izzy MG
  * Author URI:  https://izzymg.dev
  * Text Domain: elementor-course-schema
