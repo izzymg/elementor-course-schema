@@ -131,6 +131,7 @@ class Elementor_Course_Schema_Widget extends \Elementor\Widget_Base {
 				"price": "<?php echo wp_strip_all_tags( $settings['price'] ) ?>"
 			}]
 		}
+		</script>
         <?php
     }
 }
